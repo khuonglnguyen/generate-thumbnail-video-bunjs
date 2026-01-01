@@ -1,0 +1,15 @@
+{
+  "name": "generate-thumbnail-video-bunjs",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
